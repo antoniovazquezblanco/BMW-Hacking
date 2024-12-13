@@ -238,4 +238,5 @@ Here you can find the I-Level shipped in each Service Data (*PSdzData*) version.
 | 4.47.31       | F010-23-07-530                |
 | 4.49.31       |                               |
 | 4.49.40       |                               |
+| 4.49.41       | F010-24-07-515                |
 | 4.50.21       |                               |
