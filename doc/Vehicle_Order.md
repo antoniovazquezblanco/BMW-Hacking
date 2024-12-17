@@ -54,8 +54,8 @@ There is an small selection of possible SALAPA element codes below.
 | S6FLA     | 6FL   | Usb audio interface                                                   |                                                           |
 | S6VCA     | 6VC   | Combox controller                                                     |                                                           |
 | S7SPA     | 7SP   | Navigation system professional with mobile preparation for Bluetooth  |                                                           |
-| L801A     | 801   | German version                                                        |                                                           |
-| L819A	    | 819   | Spanish version                                                       |                                                           |
+| L801A     | 801   | German national version                                               |                                                           |
+| L819A	    | 819   | Spanish national version                                              |                                                           |
 | S851A     | 851   | German language version                                               |                                                           |
 | S879A     | 879   | German on-board documentation                                         |                                                           |
 |           | 8KA   | Oil service interval 30.000 Km / 24 months                            |                                                           |
