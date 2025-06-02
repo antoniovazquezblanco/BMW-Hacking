@@ -9,4 +9,5 @@ An index of available topics:
 - [I-Level](I_Level.md)
 - [Vehicle Order](Vehicle_Order.md)
 - [BMW Tools](BMW_Tools.md)
+- [BMW Diagnostic Protocols](BMW_Diagnostic_Protocols.md)
 - [Glossary](Glossary.md)
