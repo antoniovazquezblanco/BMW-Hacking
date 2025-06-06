@@ -1,9 +1,12 @@
+# Ruby
+Gemfile.lock
+vendor
+
 # Jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
 
 # Project
 TODO/
