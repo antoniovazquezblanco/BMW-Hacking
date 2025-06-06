@@ -1,3 +1,11 @@
+---
+layout: default
+title: Vehicle Order
+permalink: /general_info/vehicle_order
+parent: General information
+nav_order: 4
+---
+
 # Vehicle Order (VO)
 
 The Vehicle Order (VO), or Fahrzeugbestellung (FA) in German, is a value programmed into a vehicle that encodes the vehicle model, VIN and option list with wich a BMW left the factory.

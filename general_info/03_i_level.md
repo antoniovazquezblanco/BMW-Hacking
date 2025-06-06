@@ -1,3 +1,11 @@
+---
+layout: default
+title: I Level
+permalink: /general_info/i_level
+parent: General information
+nav_order: 3
+---
+
 # BMW Integration Level (I-Level)
 
 As cars are getting more and more complex, a way to keep track of software running on a car is needed.
@@ -10,7 +18,7 @@ To change the I-Level of a car you need to flash the different units of the car 
 
 ## I-Level Changelog
 
-Here you can find the I-Level shipped in each [Service Data](Service_Data.md) (_PSdzData_) version.
+Here you can find the I-Level shipped in each _PSdzData_ version.
 
 | Service Data | F010 (F06/F10/F11) I-Level |
 | ------------ | -------------------------- |

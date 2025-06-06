@@ -1,9 +1,17 @@
+---
+layout: default
+title: Development Codes
+permalink: /general_info/development_codes
+parent: General information
+nav_order: 1
+---
+
 # Development Codes (Entwicklungscodes)
 
 During vehicle development, BMW models and chassis are designated with an internal code to tell them apart.
 Every BMW production model, and even some prototypes and concept cars, are given designation following this development code format.
 
-People refer to this nomenclature using multiple terms:
+People refer to this using different terms:
 
 - Development codes
 - Entwicklungscodes

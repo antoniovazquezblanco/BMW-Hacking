@@ -1,0 +1,19 @@
+title: BMW Hacking
+description: A Wiki on BMW hacking, howtos and in-depth explanations of how things work.
+baseurl: "/bmw_hacking"
+url: "https://antoniovazquezblanco.github.io"
+
+theme: just-the-docs
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .jekyll-cache/
+  - .gitignore/
+  - README.md
+
+# Theme configuration
+color_scheme: dark

@@ -1,8 +1,5 @@
-# BMW F Series
+# BMW Hacking
 
-This is where I dump my notes on hacks, mods and tools for F-Series BMW cars.
+This is the source for the **BMW Hacking** wiki.
 
-There will be multiple folders/sections:
-
-- [Documentation](doc/README.md): General documentation or information about general topics.
-- [Tutorials](tutorials/README.md): Usage guides and tutorials for tools.
+The actual webpage can be accesed at <http://antoniovazquezblanco.github.io/bmw_hacking/>.
