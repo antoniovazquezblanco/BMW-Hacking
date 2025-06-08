@@ -22,3 +22,5 @@ color_scheme: dark
 callouts:
   highlight:
     color: yellow
+  warning:
+    color: red
