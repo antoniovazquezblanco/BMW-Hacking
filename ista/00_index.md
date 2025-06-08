@@ -2,7 +2,7 @@
 layout: default
 title: ISTA+
 permalink: /ista/
-nav_order: 6
+nav_order: 5
 ---
 
 # BMW ISTA+ Tutorial

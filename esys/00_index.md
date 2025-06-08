@@ -2,7 +2,7 @@
 layout: default
 title: E-SYS
 permalink: /esys/
-nav_order: 5
+nav_order: 6
 ---
 
 # BMW E-SYS
