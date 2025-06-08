@@ -18,3 +18,7 @@ exclude:
 
 # Theme configuration
 color_scheme: dark
+
+callouts:
+  highlight:
+    color: yellow

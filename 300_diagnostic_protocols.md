@@ -2,6 +2,7 @@
 layout: default
 title: Diagnostic protocols
 permalink: /diagnostic_protocols
+nav_order: 3
 ---
 
 # BMW Diagnostic Protocols

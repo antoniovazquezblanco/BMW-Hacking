@@ -2,6 +2,7 @@
 layout: default
 title: Diagnostic port
 permalink: /diagnostic_port
+nav_order: 2
 ---
 
 # Diagnostic port
