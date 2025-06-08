@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General information
-permalink: /general_info
+permalink: /general_info/
 nav_order: 1
 ---
 

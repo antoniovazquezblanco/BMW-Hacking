@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ISTA+
-permalink: /ista
+permalink: /ista/
 nav_order: 4
 ---
 
