@@ -7,6 +7,7 @@ theme: just-the-docs
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
