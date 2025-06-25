@@ -2,7 +2,7 @@
 layout: default
 title: Glossary
 permalink: /glossary
-nav_order: 7
+nav_order: 8
 ---
 
 # Glossary
