@@ -36,11 +36,11 @@ This is an EEPROM from ST. Datasheet is not publicly available. Package is SOP-8
 
 | Pin # | Function |
 | ----- | -------- |
-| 1     |          |
-| 2     |          |
-| 3     |          |
+| 1     | #CS      |
+| 2     | MISO     |
+| 3     | ?        |
 | 4     | GND      |
-| 5     |          |
-| 6     |          |
-| 7     |          |
+| 5     | MOSI     |
+| 6     | CLK      |
+| 7     | ?        |
 | 8     | VCC      |
