@@ -8,7 +8,7 @@ nav_order: 1
 
 # Connecting E-SYS to a car
 
-E-SYS allows you to perform many operations offline and has editors that work with files in your PC without a connection to your car but, at some point you may want to be able to nnect to your car to read, modify and write information to it.
+E-SYS allows you to perform many operations offline and has editors that work with files in your PC without a connection to your car but, at some point you may want to be able to connect to your car to read, modify and write information to it.
 
 For this, you will need to connect your PC to the vehicle.
 Checkout the [Diagnostic Port]({% link 200_diagnostic_port.md %}) section for more information on how to do that.
