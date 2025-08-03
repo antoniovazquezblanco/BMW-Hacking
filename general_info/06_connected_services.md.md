@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Connected services
-permalink: /connected_services
-nav_order: 8
+permalink: /general_info/connected_services
+parent: General information
+nav_order: 6
 ---
 
 # Connected services
