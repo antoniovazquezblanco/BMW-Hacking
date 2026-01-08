@@ -247,3 +247,4 @@ Here you can find the I-Level shipped in each _PSdzData_ version.
 | 4.49.40      |                            |
 | 4.49.41      | F010-24-07-515             |
 | 4.50.21      |                            |
+| 4.54.42      |                            |
