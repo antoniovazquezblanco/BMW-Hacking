@@ -30,7 +30,10 @@ You may now browse the database contents.
 
 ## KISWB Tables
 
-| Table name         | Contents description                                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------- |
-| BORDNETZTEILNEHMER | Contains the names, descriptions and network addresses of the electronic elements of a car. |
-| BNTNMAPPING        | Contains the bootloader ID (software element) for each electronic element of a car.         |
+A summary of the tables contained in a KISWB database can be found below:
+
+| Table              | Description                                                                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| BRV                | Lists the main series (Baureihe Verbund) in the database.                                                                                                  |
+| EBR                | Lists Entwicklungscodes (Development Codes) and shows its relationship with the BRV table (Baureihe Verbund - Main series).                                |
+| FAHRZEUGTYP        | Lists Fahrzeugtyp (Vehicle types) and its correlation to EBR (Entwicklungscodes - Development Codes).                                                      |

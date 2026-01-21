@@ -30,9 +30,9 @@ For example, the `F01` development code corresponds to an `F` chassis produced b
 
 Sometimes, the development code is followed by the _LCI_ acronym. _LCI_ refers to _Life Cycle Impulse_, also known as a facelift. This is used to mark a significant revision to either the body or drivetrain of a model from the earlier release.
 
-## Main Series
+## Main Series (Baureihe Verbund)
 
-Sometimes, development codes are grouped into the _main series_. The following table illustrates some of the groups:
+Sometimes, development codes are grouped into the _main series_ (Baureihe Verbund). The following table illustrates some of the groups:
 
 | Main series | Development codes                                                                              |
 | ----------- | ---------------------------------------------------------------------------------------------- |
